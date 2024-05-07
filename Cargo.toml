@@ -3,4 +3,5 @@
 members = [
     "runner",
     "pangram",
+    "playing_with_digits",
 ]

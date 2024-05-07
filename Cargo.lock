@@ -16,8 +16,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "playing_with_digits"
+version = "0.1.0"
+
+[[package]]
 name = "runner"
 version = "0.1.0"
 dependencies = [
  "pangram",
+ "playing_with_digits",
 ]

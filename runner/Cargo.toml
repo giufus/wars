@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 pangram = { path = "../pangram" }
+playing_with_digits = { path = "../playing_with_digits" }
